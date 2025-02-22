@@ -33,8 +33,6 @@ if __name__ == '__main__':
     print(me)
 ```
 
-- 🚧 Currently under construction, combining two seperate github accounts 🚧
-
 - 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **Software**, **Data**, and **Product related Projects**
